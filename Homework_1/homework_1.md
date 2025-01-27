@@ -48,7 +48,7 @@ The **top three pickup zones** with a `total_amount` greater than `13,000` on **
 ### **Question 6: Largest Tip**
 For passengers picked up in **East Harlem North** during October 2019, the **drop-off zone** with the largest tip is:
 
-**Answer**: `JFK Airport`
+**Answer**: `JFK Airport` with the largest tip of **$120**
 
 ---
 
