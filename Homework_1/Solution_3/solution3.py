@@ -22,5 +22,5 @@ october_trip_segmentation = {
     "over_10_miles": (october_data['trip_distance'] > 10).sum(),
 }
 
-# Output the results
+# Output the result
 october_trip_segmentation

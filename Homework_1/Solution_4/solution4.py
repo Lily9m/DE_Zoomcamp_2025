@@ -20,5 +20,5 @@ longest_trip_per_day = october_data.groupby(october_data['lpep_pickup_datetime']
 longest_trip_day = longest_trip_per_day.idxmax()
 longest_trip_distance = longest_trip_per_day.max()
 
-# Output the results
+# Output the result
 longest_trip_day, longest_trip_distance
