@@ -33,16 +33,12 @@ The number of trips for different distance ranges during the period **October 1,
 
 **Answer**: `104,793; 201,407; 110,612; 27,831; 35,281`
 
-![Trip Segmentation Count Screenshot](./img/trip_segmentation.png)
-
 ---
 
 ### **Question 4: Longest Trip**
 The **pickup day** with the longest trip distance during October 2019 is:
 
-**Answer**: `2019-10-15`
-
-![Longest Trip Screenshot](./img/longest_trip.png)
+**Answer**: `2019-10-31` with longest trip distance 515.89 miles
 
 ---
 

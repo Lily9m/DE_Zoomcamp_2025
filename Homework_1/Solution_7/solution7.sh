@@ -1,6 +1,5 @@
 #!/bin/bash
 # Terraform workflow script
-
 # Step 1: Initialize Terraform
 terraform init
 
