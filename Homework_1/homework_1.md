@@ -9,7 +9,7 @@ The version of `pip` in the `python:3.12.8` Docker image is:
 
 **Answer**: `24.3.1`
 
-![Pip Version Screenshot](#)
+![Pip Version Screenshot](./img/pip_version.png)
 
 ---
 
@@ -18,7 +18,7 @@ In the given `docker-compose.yaml`, the hostname and port for **pgadmin** to con
 
 **Answer**: `db:5432`
 
-![Docker Networking Screenshot](#)
+![Docker Networking Screenshot](./img/docker_networking.png)
 
 ---
 
@@ -33,7 +33,7 @@ The number of trips for different distance ranges during the period **October 1,
 
 **Answer**: `104,793; 201,407; 110,612; 27,831; 35,281`
 
-![Trip Segmentation Count Screenshot](#)
+![Trip Segmentation Count Screenshot](./img/trip_segmentation.png)
 
 ---
 
@@ -42,7 +42,7 @@ The **pickup day** with the longest trip distance during October 2019 is:
 
 **Answer**: `2019-10-15`
 
-![Longest Trip Screenshot](#)
+![Longest Trip Screenshot](./img/longest_trip.png)
 
 ---
 
@@ -51,7 +51,7 @@ The **top three pickup zones** with a `total_amount` greater than `13,000` on **
 
 **Answer**: `East Harlem North`, `East Harlem South`, `Morningside Heights`
 
-![Biggest Pickup Zones Screenshot](#)
+![Biggest Pickup Zones Screenshot](./img/biggest_pickup_zones.png)
 
 ---
 
@@ -60,13 +60,14 @@ For passengers picked up in **East Harlem North** during October 2019, the **dro
 
 **Answer**: `JFK Airport`
 
-![Largest Tip Screenshot](#)
+![Largest Tip Screenshot](./img/largest_tip.png)
 
 ---
 
 ### **Question 7: Terraform Workflow**
 The correct sequence for using Terraform is:
 
-1. **Initialize Terraform**:
-   ```bash
-   terraform init
+**Answer**: `terraform init, terraform apply -auto-approve, terraform destroy
+
+![Terraform Workflow Screenshot](./img/terraform_workflow.png)
+`
