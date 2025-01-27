@@ -67,7 +67,7 @@ For passengers picked up in **East Harlem North** during October 2019, the **dro
 ### **Question 7: Terraform Workflow**
 The correct sequence for using Terraform is:
 
-**Answer**: `terraform init, terraform apply -auto-approve, terraform destroy
+**Answer**: `terraform init, terraform apply -auto-approve, terraform destroy`
 
 ![Terraform Workflow Screenshot](./img/terraform_workflow.png)
 `
